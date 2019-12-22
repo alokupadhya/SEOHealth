@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea51fa880dd21cd434242323c93906c2",
+    "revision": "24289c308de7310fd6200d324aefa9bc",
     "url": "/SEOHealth/index.html"
   },
   {
-    "revision": "4c2aeaf79da82c4a3135",
-    "url": "/SEOHealth/static/css/main.3d85425e.chunk.css"
+    "revision": "e00671f52362f08cee55",
+    "url": "/SEOHealth/static/css/main.6c556c94.chunk.css"
   },
   {
     "revision": "b94d582f8d488194a27a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SEOHealth/static/js/2.73d632a1.chunk.js.LICENSE"
   },
   {
-    "revision": "4c2aeaf79da82c4a3135",
+    "revision": "e00671f52362f08cee55",
     "url": "/SEOHealth/static/js/main.6e4dfef7.chunk.js"
   },
   {
