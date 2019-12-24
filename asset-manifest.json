@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SEOHealth/static/css/main.6c556c94.chunk.css",
-    "main.js": "/SEOHealth/static/js/main.6e4dfef7.chunk.js",
-    "main.js.map": "/SEOHealth/static/js/main.6e4dfef7.chunk.js.map",
+    "main.css": "/SEOHealth/static/css/main.3e50866e.chunk.css",
+    "main.js": "/SEOHealth/static/js/main.61cc3819.chunk.js",
+    "main.js.map": "/SEOHealth/static/js/main.61cc3819.chunk.js.map",
     "runtime-main.js": "/SEOHealth/static/js/runtime-main.b211e244.js",
     "runtime-main.js.map": "/SEOHealth/static/js/runtime-main.b211e244.js.map",
     "static/js/2.73d632a1.chunk.js": "/SEOHealth/static/js/2.73d632a1.chunk.js",
     "static/js/2.73d632a1.chunk.js.map": "/SEOHealth/static/js/2.73d632a1.chunk.js.map",
     "index.html": "/SEOHealth/index.html",
-    "precache-manifest.2f5fb3b85eafca36b56988eaf568cd39.js": "/SEOHealth/precache-manifest.2f5fb3b85eafca36b56988eaf568cd39.js",
+    "precache-manifest.94ff232226a3b824612f41eebfbcd75e.js": "/SEOHealth/precache-manifest.94ff232226a3b824612f41eebfbcd75e.js",
     "service-worker.js": "/SEOHealth/service-worker.js",
-    "static/css/main.6c556c94.chunk.css.map": "/SEOHealth/static/css/main.6c556c94.chunk.css.map",
+    "static/css/main.3e50866e.chunk.css.map": "/SEOHealth/static/css/main.3e50866e.chunk.css.map",
     "static/js/2.73d632a1.chunk.js.LICENSE": "/SEOHealth/static/js/2.73d632a1.chunk.js.LICENSE",
     "static/media/style.css": "/SEOHealth/static/media/seo-banner.b30ce435.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b211e244.js",
     "static/js/2.73d632a1.chunk.js",
-    "static/css/main.6c556c94.chunk.css",
-    "static/js/main.6e4dfef7.chunk.js"
+    "static/css/main.3e50866e.chunk.css",
+    "static/js/main.61cc3819.chunk.js"
   ]
 }
